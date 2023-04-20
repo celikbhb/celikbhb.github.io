@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
+Hi, today is 20th of April. The weather seems a bit confused.
+When I left the home it was raining, but now it is different.
 Only limit here is your creativity and imagination. Unleash them with full force.  
