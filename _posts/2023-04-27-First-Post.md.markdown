@@ -18,7 +18,7 @@ which I had previously visited a couple of times but never looked at in
 detail. It was explained that GitHub serves as **a kind of Dropbox** for
 programmers. We all tried to create our own websites by opening a GitHub
 account. We practiced how to create a blog using Jekyll’s code and how
-to do coding through GitHub.
+to do coding through GitHub..
 
     What I Learnt Until Now
     ----------
