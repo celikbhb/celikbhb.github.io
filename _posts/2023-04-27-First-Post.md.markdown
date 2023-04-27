@@ -1,3 +1,9 @@
+---
+layout: post
+title: Painful
+categories: [category 1, category 2]
+---
+
 # Step by Step
 
 ## I am a bit **nervous**
