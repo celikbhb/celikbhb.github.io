@@ -30,10 +30,10 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Blog
+  - title: My Journey
     url: /
 
-  - title: About
+  - title: About Me
     url: /about
 
   - title: Search
