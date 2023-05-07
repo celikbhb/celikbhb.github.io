@@ -8,12 +8,12 @@ html {
 }
 
 body {
-  background: $white;
+  background: $pink;
   font-family: $sans-font-family;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.66666666667;
-  color: $darkGray;
+  color: $darkBlue;
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
@@ -77,12 +77,12 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: $purple;
+    color: $green;
   }
 
   &:hover {
-    color: $blue;
-    text-decoration: underline;
+    color: $brown;
+    text-decoration: italic;
   }
 }
 
@@ -142,9 +142,9 @@ hr {
 }
 
 .date {
-  font-weight: bold;
-  color: $gray;
-  margin-bottom: 35px;
+  font-weight: italic;
+  color: $purple;
+  margin-bottom: 25px;
 }
 
 .post-categories {
