@@ -18,4 +18,4 @@ I am planning to write an essay for this class. It would be more appropriate to 
 
 * Be Positive !
 
-![We'll see yani...](..\..\..\..\..\Desktop\Bolu\IMG_3502.JPG "We'll see yani...")
+![We'll see yani...]("C:\Users\Burak\Desktop\Bolu\IMG_3502.JPG" "We'll see yani...")
