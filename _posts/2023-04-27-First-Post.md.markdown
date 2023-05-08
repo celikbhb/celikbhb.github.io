@@ -20,17 +20,16 @@ programmers. We all tried to create our own websites by opening a GitHub
 account. We practiced how to create a blog using Jekyll’s code and how
 to do coding through GitHub..
 
-    What I Learnt Until Now
-    ----------
-    * Programs
-      * Zettlr
-      * Visual Studio Code
-      * Pandoc Converter
-      * mTpaint
+### What I Learned Until Now
+    *Programs
+        *Zettlr
+        *Visual Studio Code
+        *Pandoc Converter
+        *mTpaint
     * Skills
-      * To Create Better Blog Posts (?)
-      * To Communicate with Computer %3 (?)
+      * To Create Better Blog Posts
+      * To Communicate with Computer
 
 So to Say
 
-> Roma wasn’t built in a day, but they were laying bricks every hour
+## > Roma wasn’t built in a day, but they were laying bricks every hour
