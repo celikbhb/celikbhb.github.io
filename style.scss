@@ -13,7 +13,7 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.66666666667;
-  color: $darkBlue;
+  color: $darkGray;
   -webkit-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   font-kerning: normal;
@@ -77,12 +77,12 @@ a {
   text-decoration: none;
 
   &:visited {
-    color: $green;
+    color: $purple;
   }
 
   &:hover {
-    color: $brown;
-    text-decoration: italic;
+    color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -142,9 +142,9 @@ hr {
 }
 
 .date {
-  font-weight: italic;
-  color: $purple;
-  margin-bottom: 25px;
+  font-weight: bold;
+  color: $gray;
+  margin-bottom: 35px;
 }
 
 .post-categories {
