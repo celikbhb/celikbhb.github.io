@@ -1,3 +1,9 @@
+---
+layout: post
+title: Test
+categories: [category 1, category 2]
+---
+
 # Default Header- Demo
 
  ## 08.05.2023
