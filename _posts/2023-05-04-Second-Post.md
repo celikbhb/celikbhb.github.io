@@ -1,3 +1,9 @@
+---
+layout: post
+title: Hope
+categories: [category 1, category 2]
+---
+
 # Zotero and Databases
 
 We tried to answer 2 questions in this week’s class to understand how does _Zotero_ citing program works. The first one is how does a computer process understand the structured data, and the second one is how does a database work.
