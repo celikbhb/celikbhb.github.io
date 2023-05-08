@@ -530,6 +530,12 @@ a.nav-menu-item:focus {
   clear: both;
   }
 
+.featured-image-post {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
 //
 // .main
 //
