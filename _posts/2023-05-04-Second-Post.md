@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hope
+image: /assets/image/img1.jpg
 categories: [category 1, category 2]
 ---
 
@@ -25,3 +26,4 @@ I am planning to write an essay for this class. It would be more appropriate to 
 * Be Positive !
 
 ![We'll see yani...]("C:\Users\Burak\Desktop\Bolu\IMG_3502.JPG" "We'll see yani...")
+![]({{ page.image}})
