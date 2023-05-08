@@ -21,15 +21,13 @@ account. We practiced how to create a blog using Jekyll’s code and how
 to do coding through GitHub..
 
 ### What I Learned Until Now
-    *Programs
-        *Zettlr
-        *Visual Studio Code
-        *Pandoc Converter
-        *mTpaint
-    * Skills
-      * To Create Better Blog Posts
-      * To Communicate with Computer
-
-So to Say
-
-## > Roma wasn’t built in a day, but they were laying bricks every hour
+* Programs
+   * Zettlr
+   * Visual Code Studio
+   * Pandoc Converter
+* Skills
+  * To Create Better Blog Posts
+  * To Communicate with Computer
+  
+   So to Say
+   > Roma wasn’t built in a day, but they were laying bricks every hour
