@@ -539,6 +539,12 @@ a.nav-menu-item:focus {
   border-bottom: 01px solid $lightGray;
 }
 
+.featured-image-post {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
 .posts > .post:last-child {
   padding-bottom: 01em;
   border-bottom: none;
@@ -610,12 +616,6 @@ footer {
     margin: 0;
     padding: 0;
   }
-}
-
-.featured-image-post {
-  width: 100%;
-  height: 150px;
-  object-fit: cover;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
