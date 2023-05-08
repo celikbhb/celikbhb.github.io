@@ -53,12 +53,6 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.66666666667;
 }
 
-.featured-image-post {
-  width: 100%;
-  height: 150px;
-  object-fit: cover;
-}
-
 h1 {
   font-size: 30px;
   a {
@@ -549,6 +543,8 @@ a.nav-menu-item:focus {
   padding-bottom: 01em;
   border-bottom: none;
 }
+
+<img class="featured-image-post" src="path/to/image.jpg" alt="Featured Image Post">
 
 .post {
 
