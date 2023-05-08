@@ -9,11 +9,10 @@ These definitions are important for us because of how different databases commun
 I am planning to write an essay for this class. It would be more appropriate to use Zotero for the citations.  I need to challenge myself to improve my academic skills.
 
 ### To do list
--------—
 * Watch some Youtube videos about Markdown
     * Write more in English
     * Creative writing ideas
-* Watch [Zotero Tutorial] (/ "https://www.youtube.com/watch?v=JG7Uq_JFDzE") videos
+* Watch [Zotero Tutorial](/ "https://www.youtube.com/watch?v=JG7Uq_JFDzE") videos
     * Start to write one of your assignments
 * Understand a bit more Jekyll and Collection Builder
 
