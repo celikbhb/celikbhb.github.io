@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll-minima"
+gem "jekyll"
 
 # Plugins
 group :jekyll_plugins do
