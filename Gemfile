@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll-theme-editorial"
+gem "jekyll-remote-theme"
 
 # Plugins
 group :jekyll_plugins do
