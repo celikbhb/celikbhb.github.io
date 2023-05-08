@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll-remote-theme"
+gem "jekyll-minima"
 
 # Plugins
 group :jekyll_plugins do
