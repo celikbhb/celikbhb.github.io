@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Painful
+image: /assets/image/img2.jpg
 categories: [category 1, category 2]
 ---
 
@@ -31,3 +32,5 @@ to do coding through GitHub..
   
    So to Say
    > Roma wasn’t built in a day, but they were laying bricks every hour
+  
+![]({{ page.image }})
