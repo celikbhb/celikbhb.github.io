@@ -31,6 +31,4 @@ to do coding through GitHub..
   * To Communicate with Computer
   
    So to Say
-   > Roma wasn’t built in a day, but they were laying bricks every hour
-  
-![]({{ page.image }})
+   > Roma wasn’t built in a day, but they were laying bricks every hour...
