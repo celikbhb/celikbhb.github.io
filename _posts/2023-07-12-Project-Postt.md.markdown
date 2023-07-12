@@ -16,7 +16,7 @@ In the first step, unlike the code sequence shared by Dr. Elwert under the title
 ### Step Two
 The first step only gave us the results from the search page. However, since we needed the texts within the links of the news headlines, we obtained the actual links to the texts by assigning the value of the link to the website of the Federal Foreign Office of Germany to the existing slugs. **by filling 10 rows with grel:"https://www.auswaertiges-amt.de" + value
      
-![picturetwo.jpg](..\..\..\..\..\Desktop\picturetwo.jpg)           
+![three](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/picturethree%20(2).jpg)       
 
      
 ### Step Three
