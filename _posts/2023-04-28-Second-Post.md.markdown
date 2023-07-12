@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Project with Openrefine
-image: /assets/image/img2.jpg
+title: Project
+image: /assets/image/img3.jpg
 categories: [category 1, category 2]
 ---
 
