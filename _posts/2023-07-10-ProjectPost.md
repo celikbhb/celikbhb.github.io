@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project
-image: /assets/image/img3.jpg
+image: /assets/image/img5.JPG
 categories: [category 1, category 2]
 ---
 
