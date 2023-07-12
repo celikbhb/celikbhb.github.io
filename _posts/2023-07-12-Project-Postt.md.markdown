@@ -28,7 +28,7 @@ In order to access the raw text from the code page in all links, the code views 
 ### Step Four
 In order to find out where the text code was hidden in the complex code page, the "Inspect" page and the "Selector" tool were used in the Firefox browser to mark the areas where the text code was hidden.
     
-![picturethree.jpg](..\..\..\..\..\Desktop\picturethree.jpg)
+![four](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/picturefive%20(2).jpg)
     
     
 ### Step Five
