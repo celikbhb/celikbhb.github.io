@@ -1,1 +1,0 @@
-oJFDIAJSOIDJoıajsdoıajsoıdjaoıjdosa
