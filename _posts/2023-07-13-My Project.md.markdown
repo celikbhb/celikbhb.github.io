@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Text Scraping with Openrefine
-image: /assets/image/img2.jpg
+title: My Project with Open Refine
 categories: [category 1, category 2]
 ---
 
