@@ -14,14 +14,17 @@ In the first step, unlike the code sequence shared by Dr. Elwert under the title
 ![two](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/picturetwo%20(2).jpg)
 
 ### Step Two
-The first step only gave us the results from the search page. However, since we needed the texts within the links of the news headlines, we obtained the actual links to the texts by assigning the value of the link to the website of the Federal Foreign Office of Germany to the existing slugs. **by filling 10 rows with grel:"https://www.auswaertiges-amt.de" + value
+The first step only gave us the results from the search page. However, since we needed the texts within the links of the news headlines, we obtained the actual links to the texts by assigning the value of the link to the website of the Federal Foreign Office of Germany to the existing slugs. **by filling 10 rows with 
+
+grel:"https://www.auswaertiges-amt.de" + value
      
 ![three](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/picturefour%20(2).jpg)   
 
      
 ### Step Three
 In order to access the raw text from the code page in all links, the code views of the pages were taken with the following command:
-**fetching URLs based on column full_links using expression grel:value*
+
+fetching URLs based on column full_links using expression grel:value
       
       
       
