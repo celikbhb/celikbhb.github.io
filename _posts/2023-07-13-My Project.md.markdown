@@ -1,4 +1,9 @@
-# Text Scraping with Openrefine
+---
+layout: post
+title: Text Scraping with Openrefine
+image: /assets/image/img2.jpg
+categories: [category 1, category 2]
+---
 
 ## Text Analysis of the Results of the Search for the Word Religion on the Website of the German Ministry of Foreign Affairs
 
