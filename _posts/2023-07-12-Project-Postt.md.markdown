@@ -37,7 +37,7 @@ Then the parseHtml code provided by Dr. Elwert was tried but without any results
             
 grel:forEach(value.parseHtml().select("p.rte__paragraph"), p, p.htmlText()).join("\\n\\n")
    
-![picturefour.jpg](..\..\..\..\..\Desktop\picturefour.jpg)
+![five](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/picturesix.jpg)
    
    
    
