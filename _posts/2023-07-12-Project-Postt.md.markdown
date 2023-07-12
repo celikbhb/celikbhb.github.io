@@ -54,12 +54,10 @@ My .csv document became a text file thanks to this code that converts all files 
 In this step, I simply uploaded my text documents to the Voyant Tools page, and the application's own "stopper" list generated a suitable word cloud and word density lists.
         
  [project link](https://voyant-tools.org/?corpus=9f016c22ddd1ed6e308396e90ed27299&panels=cirrus,reader,trends,summary,contexts)
-      
-![picturesi.jpg](..\..\..\..\..\Desktop\picturesi.jpg)
 
 
 ### Step Eight
-In this step, I watched the AntConc program's user guide videos on youtubed. Since it is one of the easiest tools to use and will be useful for our project, I ran the KWIC and word density tools to get the following visuals.
+In this step, I watched the AntConc program's user guide videos on youtube. Since it is one of the easiest tools to use and will be useful for our project, I ran the KWIC and word density tools to get the following visuals.
   
 ![antconc.ıraq.kwic.jpg](..\..\..\..\..\Desktop\antconc.ıraq.kwic.jpg)
   
@@ -67,8 +65,5 @@ In this step, I watched the AntConc program's user guide videos on youtubed. Sin
 
 
 ### Challanges for future
-When filtering on the German foreign ministry website, there is no link to the filter result. This makes it difficult to extract data quickly. The program cannot access documents with PDF extension. Open Refine is a very nice application, but webscraping can be done more easily with software languages such as Python requests or BeautifulSoap, which I researched while working on this project.
+When filtering on the German foreign ministry website, there is no link to the filter result. This makes it difficult to extract data quickly. The program cannot access documents with PDF extension. Open Refine is a very nice application, but web scraping can be done more easily with software languages such as Python requests or BeautifulSoap, which I researched while working on this project.
     
- 
- 
- 
