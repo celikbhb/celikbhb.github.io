@@ -9,7 +9,7 @@ After conducting the search, I obtained a total of "315" results. However, for t
 ### Step One
 In the first step, unlike the code sequence shared by Dr. Elwert under the title of text analysis, the project was created directly from the "URL" instead of the "Clipboard". This automatically generated the date, type of the article, title of the article, slug "columns" automatically.
 
-![pictureone.jpg.jpg](..\..\..\..\..\Desktop\pictureone.jpg.jpg)
+![one](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/pictureone.jpg))
 
 ![picturonepointone.jpg](..\..\..\..\..\Desktop\picturonepointone.jpg)
 
