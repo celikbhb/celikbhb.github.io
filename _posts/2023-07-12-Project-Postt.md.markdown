@@ -44,7 +44,7 @@ grel:forEach(value.parseHtml().select("p.rte__paragraph"), p, p.htmlText()).join
 ### Step Six
 My .csv document became a text file thanks to this code that converts all files to .txt format to make it easier to work with text.
         
-![picturefive.jpg](..\..\..\..\..\Desktop\picturefive.jpg)
+![six](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/pictureseven%20(2).jpg)
  
  
 ### Step Seven
