@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test
+title: Learning Process in Digital Tools for Studying Religion Class
 image: /assets/image/img5.JPG
 categories: [category 1, category 2]
 ---
