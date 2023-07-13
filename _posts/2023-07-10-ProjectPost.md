@@ -11,7 +11,7 @@ After conducting the search, I obtained a total of "315" results. However, for t
 ### Step One
 In the first step, unlike the code sequence shared by Dr. Elwert under the title of text analysis, the project was created directly from the "URL" instead of the "Clipboard". This automatically generated the date, type of the article, title of the article, slug "columns" automatically.
 
-![1](assets/image/img6.jpg)
+![1](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/img6.jpg)
 
 ![2](assets/image/img7.jpg)
 
