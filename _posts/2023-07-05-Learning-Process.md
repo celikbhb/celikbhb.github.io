@@ -1,3 +1,10 @@
+---
+layout: post
+title: Test
+image: /assets/image/img5.JPG
+categories: [category 1, category 2]
+---
+
 ## Network analysis
 A network assumes some connection between entities. What might be an evidence or trends?
 
