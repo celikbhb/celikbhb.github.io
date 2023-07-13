@@ -14,6 +14,10 @@ After conducting the search, I obtained a total of "315" results. However, for t
 ### Step One
 In the first step, unlike the code sequence shared by Dr. Elwert under the title of text analysis, the project was created directly from the "URL" instead of the "Clipboard". This automatically generated the date, type of the article, title of the article, slug "columns" automatically.
 
+![uploading data to openrefine](assets/image/pictureone.jpg)
+
+![choosing the correct codeset](assets/image/picturetwo (2).jpg)
+
 
 ### Step Two
 The first step only gave us the results from the search page. However, since we needed the texts within the links of the news headlines, we obtained the actual links to the texts by assigning the value of the link to the website of the Federal Foreign Office of Germany to the existing slugs. **by filling 10 rows with 
