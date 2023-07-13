@@ -1,19 +1,9 @@
 ---
 layout: post
 title: Project
-image: /assets/image/img2.jpg
-image: /assets/image/img2.jpg
-     : /assets/image/img6.jpg
-     : /assets/image/img7.jpg
-     :/assets/image/img8.jpg
-     :/assets/image/img9.jpg
-     : /assets/image/img10.jpg
-     : /assets/image/img11.jpg
-     : /assets/image/img12.jpg
-     : /assets/image/img13.jpg
+image: /assets/image/img3.jpg
 categories: [category 1, category 2]
 ---
-
 ## Text Analysis of the Results of the Search for the Word Religion on the Website of the German Ministry of Foreign Affairs
 
 In my project for the Digital Methods in Religious Studies course, I examined how the word "religion" is used on the official website of the Federal State of Germany. To do this, I collected information by scraping the search results page on the website and retrieving the links from those results. After that, I used software programs called Voyant Tools and AntConc to analyze the obtained results. These tools helped me study and understand the different ways the word "religion" was used on the website.
