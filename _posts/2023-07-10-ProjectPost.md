@@ -11,9 +11,9 @@ After conducting the search, I obtained a total of "315" results. However, for t
 ### Step One
 In the first step, unlike the code sequence shared by Dr. Elwert under the title of text analysis, the project was created directly from the "URL" instead of the "Clipboard". This automatically generated the date, type of the article, title of the article, slug "columns" automatically.
 
-![1](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/image/img6.jpg)
+![1](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img6.jpg?raw=true)
 
-![2](assets/image/img7.jpg)
+![2](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img7.jpg?raw=true)
 
 
 
@@ -22,7 +22,8 @@ The first step only gave us the results from the search page. However, since we 
 
 grel:"https://www.auswaertiges-amt.de" + value
 
-![3](assets/image/img8.jpg) 
+![3](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img8.jpg?raw=true)
+
 ### Step Three
 In order to access the raw text from the code page in all links, the code views of the pages were taken with the following command:
 
@@ -33,7 +34,7 @@ fetching URLs based on column full_links using expression grel:value
 ### Step Four
 In order to find out where the text code was hidden in the complex code page, the "Inspect" page and the "Selector" tool were used in the Firefox browser to mark the areas where the text code was hidden.
     
-![4](assets/image/img9.jpg)    
+![4](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img9.jpg?raw=true)
     
 ### Step Five
 Then the parseHtml code provided by Dr. Elwert was tried but without any results. Because I didn't understand exactly where I needed to change, so I asked chatgpt if my code was correct, and after a while of talking and several failed attempts to get chatgpt to provide me with the correct code, chatgpt provided me with the correct code below. 
@@ -41,16 +42,14 @@ Then the parseHtml code provided by Dr. Elwert was tried but without any results
             
 grel:forEach(value.parseHtml().select("p.rte__paragraph"), p, p.htmlText()).join("\\n\\n")
    
-![5](assets/image/img10.jpg)
+![5](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img10.jpg?raw=true)
 
-
-   
-   
+ 
 ### Step Six
 My .csv document became a text file thanks to this code that converts all files to .txt format to make it easier to work with text.
         
 
-![6](assets/image/img11.jpg) 
+![6](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img11.jpg?raw=true)
  
 ### Step Seven
 In this step, I simply uploaded my text documents to the Voyant Tools page, and the application's own "stopper" list generated a suitable word cloud and word density lists.
@@ -63,9 +62,9 @@ In this step, I watched the AntConc program's user guide videos on youtube. Sinc
   
  [anticonc youtube link](https://www.youtube.com/@AntLabJPN/playlists)
 
-![7](assets/image/img12.jpg)
+![7](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img12.jpg?raw=true)
 
-![8](assets/image/img13.jpg)
+![8](https://github.com/celikbhb/celikbhb.github.io/blob/main/assets/img13.jpg?raw=true)
 
 ### Challanges for future
 When filtering on the German foreign ministry website, there is no link to the filter result. This makes it difficult to extract data quickly. The program cannot access documents with PDF extension. Open Refine is a very nice application, but web scraping can be done more easily with software languages such as Python requests or BeautifulSoap, which I researched while working on this project.
