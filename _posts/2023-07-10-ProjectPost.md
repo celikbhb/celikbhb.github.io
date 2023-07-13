@@ -2,6 +2,7 @@
 layout: post
 title: Project
 image: /assets/image/img2.jpg
+image: /assets/image/img2.jpg
      : /assets/image/img6.jpg
      : /assets/image/img7.jpg
      :/assets/image/img8.jpg
