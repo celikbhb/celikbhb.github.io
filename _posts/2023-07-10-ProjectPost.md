@@ -2,6 +2,7 @@
 layout: post
 title: Project
 image: /assets/image/img10.jpg
+image: /assets/image/img11.jpg
 ---
 ## Text Analysis of the Results of the Search for the Word Religion on the Website of the German Ministry of Foreign Affairs
 
